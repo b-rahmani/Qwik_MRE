@@ -1,0 +1,1 @@
+import{j as n,q as o,S as e,z as l}from"./q-c210a59f.js";const s=r=>n(l,{children:o("svg",{...r,children:e("path",null,{d:"M6.75 15.75L3 12m0 0l3.75-3.75M3 12h18",strokeLinecap:"round",strokeLinejoin:"round"},null,3,null)},{fill:"none",stroke:"currentColor",strokeWidth:1.5,viewBox:"0 0 24 24"},0,null)},1,"B0_0");export{s as L};

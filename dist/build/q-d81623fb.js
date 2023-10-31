@@ -1,0 +1,1 @@
+import{A as t}from"./q-70be9b46.js";import{G as o,d as a,j as r,E as i,z as p}from"./q-c210a59f.js";import"./q-5a631909.js";const c=()=>{const s=o({Qwik:"Qwik context is ready to use"});return a(t,[s]),r(p,{children:r(i,null,3,"rS_0")},1,"rS_1")};export{c as s_rysKx0jgXk4};

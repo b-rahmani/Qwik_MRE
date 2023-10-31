@@ -1,0 +1,1 @@
+import{j as r,S as t,a as n,z as l}from"./q-c210a59f.js";const c=s=>r(l,{children:t("link",null,{href:n(e=>`/Fonts/Persian/${e.name}/Font.css`,[s]),rel:"stylesheet",type:"text/css"},null,3,null)},3,"JK_0");export{c as s_cRKZIfKScVg};

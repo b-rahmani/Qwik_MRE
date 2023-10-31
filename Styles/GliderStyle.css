@@ -1,0 +1,31 @@
+.glider.draggable {
+    user-select: none;
+    cursor: -webkit-grab;
+    cursor: grab;
+}
+
+.glider.draggable .glider-slide img {
+    user-select: none;
+    pointer-events: none;
+}
+
+.glider.drag {
+    cursor: -webkit-grabbing;
+    cursor: grabbing;
+}
+
+.glider-slide {
+    user-select: none;
+    justify-content: center;
+    align-content: center;
+    width: 100%;
+}
+
+.glider-slide img {
+    max-width: 100%;
+}
+
+.glider::-webkit-scrollbar {
+    opacity: 0;
+    height: 0;
+}

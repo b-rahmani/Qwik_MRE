@@ -1,0 +1,10 @@
+{
+    "IsDeveloping": true,
+    "KeycloakUrl": "https://accounts.pydr.ir",
+    "StorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=holismdevelopment;AccountKey=CBiVBvJP/4RXpSbgftOMGLGkBDQAYPjEzlv3OJjoomAhEKYDrFzbvElmGN3IO/kbcY50ZogrxLFuunjakPxkUg==;EndpointSuffix=core.windows.net",
+    "Realm": "Development",
+    "WebsiteUrl": "https://pydr.local",
+    "DatabaseServer": "database",
+    "DatabaseUser": "root",
+    "DatabasePassword": "IC1joYMLZTT0fQMJ5qcz"
+}

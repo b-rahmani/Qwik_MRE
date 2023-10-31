@@ -1,0 +1,1 @@
+import{j as a,S as c,a as l,z as e}from"./q-c210a59f.js";const t=r=>a(e,{children:c("div",{onClick$:r.click},{class:l(s=>`w-screen h-screen fixed top-0 start-0 bg-black/80 z-30 duration-700 ${s.class}`,[r])},null,2,null)},1,"bV_0");export{t as s_JGJv4eA4vIw};

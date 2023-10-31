@@ -1,0 +1,1 @@
+import{j as s,S as l,z as n}from"./q-c210a59f.js";const e=t=>s(n,{children:l("div",{onClick$:t.click},{class:"absolute w-4 h-4 to-0 end-0 z-20"},l("span",null,{class:"font-bold text-red-400 text-lg"},"x",3,null),2,null)},1,"ea_0");export{e as s_0L1pqOVGAtM};

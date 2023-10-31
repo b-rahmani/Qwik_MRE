@@ -1,0 +1,1 @@
+import{S as e,a as o}from"./q-c210a59f.js";const r=t=>e("button",{onClick$:t.onClick$},{class:"w-fit my-2 text-green-900 py-1 px-4 text-sm hover:bg-green-800 hover:text-white font-bold rounded-md duration-300"},e("span",null,null,o(n=>n.title,[t]),3,null),2,"1I_0");export{r as s_Ky24eMb7aS0};

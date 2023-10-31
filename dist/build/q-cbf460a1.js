@@ -1,0 +1,1 @@
+import"./q-70be9b46.js";import{j as n,S as o,Y as e,a as c,z as i}from"./q-c210a59f.js";import{R as l}from"./q-adb48001.js";import"./q-5a631909.js";import"./q-ee2fbd6b.js";const p=t=>n(i,{children:[o("h1",null,null,"hi",3,null),n(l,{get content(){return t.content},[e]:{content:c(r=>r.content,[t])}},3,"BP_0")]},1,"BP_1");export{p as s_yslMEGaGsRc};

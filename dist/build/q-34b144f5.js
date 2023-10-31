@@ -1,0 +1,1 @@
+import{S as t,a as e,j as s,E as n}from"./q-c210a59f.js";const u=l=>t("div",null,{class:"mb-2"},[l.type!="Boolean"&&l.label&&t("label",null,{class:"text-md text-slate-500",id:e(a=>a.id,[l])},e(a=>a.label,[l]),3,"I1_0"),s(n,null,3,"I1_1")],1,"I1_2");export{u as s_7YRpuMjZmM0};
